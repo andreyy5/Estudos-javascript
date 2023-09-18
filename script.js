@@ -10,3 +10,8 @@ button.style.BackgroundColor = "#ffffff"
 function cliqueiNoBotao(){ 
     alert("Cliquei no botão")
 }
+
+function digiteiNoInput(){ 
+    console.log("Digitei no input")
+}
+
